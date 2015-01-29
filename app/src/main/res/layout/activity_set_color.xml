@@ -1,0 +1,135 @@
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.qiqi8226.qidict.SetColorAty">
+
+    <TableRow>
+
+        <ImageButton
+            android:id="@+id/img_btn1"
+            android:layout_weight="1"
+            android:minHeight="@dimen/min_circular_color_width"
+            android:minWidth="@dimen/min_circular_color_width"
+            android:src="@drawable/bgp1"
+            android:layout_marginRight="@dimen/color_select_padding_half"
+            android:background="@drawable/bg_transparent" />
+
+        <ImageButton
+            android:id="@+id/img_btn2"
+            android:layout_weight="1"
+            android:minHeight="@dimen/min_circular_color_width"
+            android:minWidth="@dimen/min_circular_color_width"
+            android:src="@drawable/bgp2"
+            android:layout_marginLeft="@dimen/color_select_padding_half"
+            android:layout_marginRight="@dimen/color_select_padding_half"
+            android:background="@drawable/bg_transparent" />
+
+        <ImageButton
+            android:id="@+id/img_btn3"
+            android:layout_weight="1"
+            android:minHeight="@dimen/min_circular_color_width"
+            android:minWidth="@dimen/min_circular_color_width"
+            android:src="@drawable/bgp3"
+            android:layout_marginLeft="@dimen/color_select_padding_half"
+            android:layout_marginRight="@dimen/color_select_padding_half"
+            android:background="@drawable/bg_transparent" />
+
+        <ImageButton
+            android:id="@+id/img_btn4"
+            android:layout_weight="1"
+            android:minHeight="@dimen/min_circular_color_width"
+            android:minWidth="@dimen/min_circular_color_width"
+            android:src="@drawable/bgp4"
+            android:layout_marginLeft="@dimen/color_select_padding_half"
+            android:background="@drawable/bg_transparent" />
+
+    </TableRow>
+
+    <TableRow
+        android:layout_marginTop="20dp">
+
+        <ImageButton
+            android:id="@+id/img_btn5"
+            android:layout_weight="1"
+            android:minHeight="@dimen/min_circular_color_width"
+            android:minWidth="@dimen/min_circular_color_width"
+            android:src="@drawable/bgp5"
+            android:layout_marginRight="@dimen/color_select_padding_half"
+            android:background="@drawable/bg_transparent" />
+
+        <ImageButton
+            android:id="@+id/img_btn6"
+            android:layout_weight="1"
+            android:minHeight="@dimen/min_circular_color_width"
+            android:minWidth="@dimen/min_circular_color_width"
+            android:src="@drawable/bgp6"
+            android:layout_marginLeft="@dimen/color_select_padding_half"
+            android:layout_marginRight="@dimen/color_select_padding_half"
+            android:background="@drawable/bg_transparent" />
+
+        <ImageButton
+            android:id="@+id/img_btn7"
+            android:layout_weight="1"
+            android:minHeight="@dimen/min_circular_color_width"
+            android:minWidth="@dimen/min_circular_color_width"
+            android:src="@drawable/bgp7"
+            android:layout_marginLeft="@dimen/color_select_padding_half"
+            android:layout_marginRight="@dimen/color_select_padding_half"
+            android:background="@drawable/bg_transparent" />
+
+        <ImageButton
+            android:id="@+id/img_btn8"
+            android:layout_weight="1"
+            android:minHeight="@dimen/min_circular_color_width"
+            android:minWidth="@dimen/min_circular_color_width"
+            android:src="@drawable/bgp8"
+            android:layout_marginLeft="@dimen/color_select_padding_half"
+            android:background="@drawable/bg_transparent" />
+
+    </TableRow>
+    <TableRow
+        android:layout_marginTop="20dp">
+
+        <ImageButton
+            android:id="@+id/img_btn9"
+            android:layout_weight="1"
+            android:minHeight="@dimen/min_circular_color_width"
+            android:minWidth="@dimen/min_circular_color_width"
+            android:src="@drawable/bgp9"
+            android:layout_marginRight="@dimen/color_select_padding_half"
+            android:background="@drawable/bg_transparent" />
+
+        <ImageButton
+            android:id="@+id/img_btn10"
+            android:layout_weight="1"
+            android:minHeight="@dimen/min_circular_color_width"
+            android:minWidth="@dimen/min_circular_color_width"
+            android:src="@drawable/bgp10"
+            android:layout_marginLeft="@dimen/color_select_padding_half"
+            android:layout_marginRight="@dimen/color_select_padding_half"
+            android:background="@drawable/bg_transparent" />
+
+        <ImageButton
+            android:id="@+id/img_btn11"
+            android:layout_weight="1"
+            android:minHeight="@dimen/min_circular_color_width"
+            android:minWidth="@dimen/min_circular_color_width"
+            android:src="@drawable/bgp11"
+            android:layout_marginLeft="@dimen/color_select_padding_half"
+            android:layout_marginRight="@dimen/color_select_padding_half"
+            android:background="@drawable/bg_transparent" />
+
+        <ImageButton
+            android:id="@+id/img_btn12"
+            android:layout_weight="1"
+            android:minHeight="@dimen/min_circular_color_width"
+            android:minWidth="@dimen/min_circular_color_width"
+            android:src="@drawable/bgp12"
+            android:layout_marginLeft="@dimen/color_select_padding_half"
+            android:background="@drawable/bg_transparent" />
+
+    </TableRow>
+
+
+</TableLayout>
