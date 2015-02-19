@@ -13,7 +13,7 @@ About
 Release
 ====================
 
-[小米应用商店](http://app.mi.com/detail/81504)    [豌豆荚](http://www.wandoujia.com/apps/com.qiqi8226.qidict)    [直接下载](http://qiqi8226.com/apk/最简词典.apk)
+[小米应用商店](http://app.mi.com/detail/81504)    [豌豆荚](http://www.wandoujia.com/apps/com.qiqi8226.qidict)    [直接下载](http://qiqidownload-apk.stor.sinaapp.com/%E6%9C%80%E7%AE%80%E8%AF%8D%E5%85%B8.apk)
 
 Build
 ====================
