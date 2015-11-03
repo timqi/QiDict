@@ -3,7 +3,7 @@ QiDict
 
 一款超轻量级词典应用，为您提供强大的单词查询、全文翻译服务，彻底的干净清爽低能耗
 
-[@author](http://qiqi8226.com/)   [@mail](http://qiqi8226.com/mail/)   [@weibo](http://weibo.com/qiqi8226)
+[@author](http://timqi.com/)   [@mail](mailto://i@timqi.com)   [@weibo](http://weibo.com/timqi)
 
 About
 ====================
